@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--************************************* BEGIN TEXT APPEARANCE *********************************-->
+    <!-- Font Weights-->
+    <style name="Text.Thin" parent="android:TextAppearance"/>
+
+    <style name="Text.ExtraLight" parent="android:TextAppearance"/>
+
+    <style name="Text.Light" parent="android:TextAppearance"/>
+
+    <style name="Text.Regular" parent="android:TextAppearance"/>
+
+    <style name="Text.Medium" parent="android:TextAppearance"/>
+
+    <style name="Text.Bold" parent="android:TextAppearance"/>
+
+    <style name="Text.SemiBold" parent="android:TextAppearance"/>
+
+    <style name="Text.ExtraBold" parent="android:TextAppearance"/>
+
+    <style name="Text.Black" parent="android:TextAppearance"/>
+
+
+    <!-- AppCompat Defaults -->
+    <style name="Text.Display4" parent="TextAppearance.AppCompat.Display4"/>
+
+    <style name="Text.Display3" parent="TextAppearance.AppCompat.Display3"/>
+
+    <style name="Text.Display2" parent="TextAppearance.AppCompat.Display2"/>
+
+    <style name="Text.Display1" parent="TextAppearance.AppCompat.Display1"/>
+
+    <style name="Text.Headline" parent="TextAppearance.AppCompat.Headline"/>
+
+    <style name="Text.Title" parent="TextAppearance.AppCompat.Title"/>
+
+    <style name="Text.Subhead" parent="TextAppearance.AppCompat.Subhead"/>
+
+    <style name="Text.Body2" parent="TextAppearance.AppCompat.Body2"/>
+
+    <style name="Text.Body1" parent="TextAppearance.AppCompat.Body1"/>
+
+    <style name="Text.Caption" parent="TextAppearance.AppCompat.Caption"/>
+    <!--************************************* END TEXT APPEARANCE *********************************-->
+
+</resources>

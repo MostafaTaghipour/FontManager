@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Font Example</string>
+    <string name="font_wight">Font Weight</string>
+    <string name="typography">Typography</string>
+    <string name="hello" >hello</string>
+    <string name="settings">Settings</string>
+    <string-array name="fonts" >
+        <item>None</item>
+        <item>Exo</item>
+        <item>Taviraj</item>
+    </string-array>
+</resources>
